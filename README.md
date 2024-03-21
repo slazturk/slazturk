@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java with Spring Boot Framework.**
 
--<!-- 📝 I regularly write articles on [https://medium.com/@yapraksila1](https://medium.com/@yapraksila1) -->
-
 - 📫 Reach me from **ysilaozturk@hotmail.com or https://www.linkedin.com/in/yaprak-sila-ozturk/**
 
 <h3 align="left">Connect with me:</h3>
